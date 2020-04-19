@@ -1,2 +1,2 @@
-![demo1.png](./demo1.gif)
-![demo2.png](./demo2.gif)
+![demo1.png](./demo1.png)
+![demo2.png](./demo2.png)
